@@ -1,0 +1,45 @@
+.card{
+    background-color: rgb(174, 70, 70);
+    border: red solid;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    margin-bottom: 0cap;
+}
+.card1{
+    background-color: blue;
+    border: blueviolet solid;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    margin-left: 20px;
+    margin-top: 20px;
+    
+}
+.card2{
+    background-color: aquamarine;
+    border: red solid;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    margin-left: 45px;
+    margin-top:40px;
+}
+.card3{
+    background-color: blueviolet;
+    border: red solid;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    margin-left: 70px;
+   margin-top: 60px;
+}
+.card4{
+    background-color: rgb(185, 176, 194);
+    border: red solid;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+    margin-left: 95px;
+    margin-top: 80px;
+}
