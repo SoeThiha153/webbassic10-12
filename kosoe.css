@@ -1,4 +1,4 @@
-.card{
+/* .card{
     background-color: rgb(174, 70, 70);
     border: red solid;
     width: 150px;
@@ -42,4 +42,34 @@
     position: fixed;
     margin-left: 95px;
     margin-top: 80px;
+} */
+.pic1{
+    border: rgb(54, 6, 6) solid 5px;
+    width: 50px;
+    height: 100px;
+  
+   
 }
+.pic2{
+    border: blue solid 5px;
+    position: fixed;
+    margin: 40px;
+    left: 10px;
+    top: 0px;
+}
+.pic3{
+    border: rebeccapurple solid 5px;
+    position: fixed;
+    margin: 60px;
+    left: 40px;
+    top: 25px;
+}
+.pic4{
+    border: yellow solid 10px;
+    position: fixed;
+    margin: 100px;
+    top: 35px;
+    left: 45px;
+}
+
+
