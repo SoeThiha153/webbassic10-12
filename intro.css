@@ -1,0 +1,39 @@
+.season{
+    background-color: black;
+   border: red solid 5px;
+   width: 150px;
+   height: 100px;
+   position: fixed;
+}
+.season1{
+    background-color: blue;
+    border: black solid 5px;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+}
+.season2{
+    background-color: blueviolet;
+    border: yellow solid 5px;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+   margin-bottom: 40px;
+}
+.season3{
+    background-color: aquamarine;
+    border: bisque solid 5px;
+    width: 150px;
+    height: 100px;
+    position: fixed;
+   bottom: 50px;
+}
+.season4{
+    background-color: rgb(187, 12, 143);
+    border: rebeccapurple solid 5px;
+    width: 150px;
+    height: 100px;
+    position: row;
+    position: fixed;
+    right: 30px;
+}
